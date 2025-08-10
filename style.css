@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Coiny&family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Sriracha&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+ */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -948,10 +950,10 @@ body {
     }
 }
 .boxMail .boxMail-container .card2 h2{
-    font-family: 'Dancing Script', cursive;
+    font-family: "Open Sans", sans-serif;
     padding: 0px 20px;
     text-indent: 20px;
-    font-size: 22px;
+    font-size: 16px;
     opacity: 0;
 }
 .boxMail .boxMail-container .card2:hover h2{
